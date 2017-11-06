@@ -18,6 +18,7 @@ In your HTML file, just add on of the following classes to an element :
 
 - `sr-up-td1` to `sr-up-td4` Fade in up animation
 - `sr-down-td1` to `sr-down-td4` Fade in down animation
-- `sr-zoomin-td1` to `sr-zoomin-td4` Fade in down animation
+- `sr-zoomin-td1` to `sr-zoomin-td4` Zoom in animation
+- `sr-zoomout-td1` to `sr-zoomout-td4` Zoom out animation
 
 `XX-td1` means 100ms reveal time delay and `XX-td4` equals to 400ms reveal time delay 
