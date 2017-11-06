@@ -1,6 +1,7 @@
-// Scroll reveal
+// Init scroll reveal
 window.sr = ScrollReveal();
 
+// List of animation
 for (var index = 1; index < 11; index++) {
     // fade in up
     sr.reveal('.sr-up-td' + index, {
